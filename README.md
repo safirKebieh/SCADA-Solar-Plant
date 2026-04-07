@@ -73,10 +73,10 @@ Otherwise, the system transitions to **Stopped** or **Faulted** state.
 
 ## 🎥 Demo
 
-▶️ [Start/Stop Demo](./04_Screenshots/videos/demo-start-stop.mp4)  
-▶️ [Inverter Control](./04_Screenshots/videos/demo-full-flow.mp4)  
-▶️ [Full System Demo](./04_Screenshots/videos/demo-fault-trigger.mp4)
-▶️ [Full System Demo](./04_Screenshots/videos/demo-fault-acknowledged.mp4)
+▶️ [Start/Stop Demo](https://www.youtube.com/watch?v=MRMWtT-8_YQ)  
+▶️ [Full-Flow Demo](https://www.youtube.com/watch?v=txK043ApfFE)  
+▶️ [Fault-Trigger Demo](https://www.youtube.com/watch?v=tMSkhBcMWJE)
+▶️ [Fault-Acknowledged Demo](https://www.youtube.com/watch?v=ith3j_CxXHw)
 
 
 
