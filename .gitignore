@@ -1,0 +1,11 @@
+# Ignore C# build files
+bin/
+obj/
+.vs/
+
+# Ignore other unnecessary files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.idea/
