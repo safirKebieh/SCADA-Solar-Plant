@@ -19,7 +19,7 @@ production, environmental conditions, and system states.
 
 ## 🏗️ System Architecture
 
-![Architecture](./screenshots/architecture.png)
+![Architecture](./04_screenshots/architecture.png)
 
 **Data Flow:**
 C# Simulator -> CODESYS PLC -> Modbus TCP -> FUXA SCADA
@@ -39,10 +39,10 @@ FUXA SCADA -> Modbus TCP -> CODESYS PLC -> C# Simulator
 ## 🖥️ SCADA Screens
 
 ### Overview Page
-![Overview](./screenshots/overview.jpg)
+![Overview](./04_screenshots/overview.jpg)
 
 ### Control Panel
-![Control Panel](./screenshots/control-panel.jpg)
+![Control Panel](./04_screenshots/control-panel.jpg)
 
 
 ## 📐 Simulation Model
@@ -73,10 +73,10 @@ Otherwise, the system transitions to **Stopped** or **Faulted** state.
 
 ## 🎥 Demo
 
-▶️ [Start/Stop Demo](./screenshots/videos/demo-start-stop.mp4)  
-▶️ [Inverter Control](./screenshots/videos/demo-full-flow.mp4)  
-▶️ [Full System Demo](./screenshots/videos/demo-fault-trigger.mp4)
-▶️ [Full System Demo](./screenshots/videos/demo-fault-acknowledged.mp4)
+▶️ [Start/Stop Demo](./04_screenshots/videos/demo-start-stop.mp4)  
+▶️ [Inverter Control](./04_screenshots/videos/demo-full-flow.mp4)  
+▶️ [Full System Demo](./04_screenshots/videos/demo-fault-trigger.mp4)
+▶️ [Full System Demo](./04_screenshots/videos/demo-fault-acknowledged.mp4)
 
 
 
